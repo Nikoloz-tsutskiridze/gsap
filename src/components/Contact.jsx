@@ -54,7 +54,7 @@ function Contact() {
           />
           <Button
             title="Contact us"
-            containerClass="mt-10 cursor-pointer bg-customBlue text-white"
+            containerClass="mt-10 cursor-pointer text-black"
           />
         </div>
       </div>
