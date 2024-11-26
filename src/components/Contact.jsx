@@ -48,12 +48,14 @@ function Contact() {
           <p className="mb-10 font-general text-[10px] uppercase">
             Join R6 community
           </p>
-
           <AnimatedTitle
             title="b<b>u</b>ild new era of<br />g<b>a</b>ming."
             className="special-font !md:text-[6.2rem] w-full font-zentry !text-5xl !font-black !leading-[.9]"
           />
-          <Button title="contact us" containerClass="mt-10 cursor-pointer" />
+          <Button
+            title="Contact us"
+            containerClass="mt-10 cursor-pointer bg-customBlue text-white"
+          />
         </div>
       </div>
     </div>
